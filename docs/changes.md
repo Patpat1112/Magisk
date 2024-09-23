@@ -1,4 +1,4 @@
-# Magisk Changelog
+root# Magisk Changelog
 
 ### v27.0
 
